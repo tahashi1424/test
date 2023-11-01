@@ -1,0 +1,73 @@
+.inquiry{
+    width: 70%;
+    margin: 5% auto;
+    border-radius: 16px;
+    border: 1px solid #ccc;
+}
+
+.inquiry-otoi{
+    text-align: center;
+    border-bottom: solid 1px #ccc;
+    padding: 1rem 0;
+}
+ 
+.inquiry-detail{
+    margin: 0 20px;
+}
+.submit-button{
+    border-top: solid 1px #000;
+    border-bottom: solid 1px #000;
+    background-color: #ccc;
+    padding: 10px;
+    font-size: x-small;
+    margin: 0 4px;
+}
+
+.small{
+    font-size: xx-small;
+    border-bottom: solid 1px #ccc;
+}
+
+ .free{
+    width: 100%;
+    border: rgba(0 0 0 0.5);
+    padding: 5px 0;
+ }
+
+ .kome{
+    color: red;
+ }
+
+ .content{
+    margin-top: 2rem;
+    width: 100%;
+ }
+
+ .button-area{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+ }
+
+ .button-sub{
+    width: 10rem;
+    height: 40px;
+    border-radius: 5px;
+    background-color: orchid;
+    color: #fff;
+    margin-bottom: 2rem;
+    border: none;
+    padding: 10px 0;
+   margin-right: 2rem;
+ }
+
+ .button-return{
+    width: 10rem;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #fff;
+    color: #000;
+    margin-bottom: 2rem;
+    border: solid 1px #000;
+    padding: 10px 0;
+ }
